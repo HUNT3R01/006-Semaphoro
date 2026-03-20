@@ -1,0 +1,60 @@
+[Fri Mar 20 02:48:36 2026] Car 5: Arrived at parking lot
+
+[Fri Mar 20 02:48:36 2026] Car 5: Parked successfully in spot 0 (waited 0.01 seconds)
+
+[Fri Mar 20 02:48:36 2026] Car 0: Arrived at parking lot
+
+[Fri Mar 20 02:48:36 2026] Car 0: Parked successfully in spot 1 (waited 0.00 seconds)
+
+[Fri Mar 20 02:48:36 2026] Car 8: Arrived at parking lot
+
+[Fri Mar 20 02:48:36 2026] Car 8: Parked successfully in spot 2 (waited 0.00 seconds)
+
+[Fri Mar 20 02:48:37 2026] Car 3: Arrived at parking lot
+
+[Fri Mar 20 02:48:37 2026] Car 3: Parked successfully in spot 3 (waited 0.00 seconds)
+
+[Fri Mar 20 02:48:37 2026] Car 1: Arrived at parking lot
+
+[Fri Mar 20 02:48:37 2026] Car 1: Parked successfully in spot 4 (waited 0.00 seconds)
+
+[Fri Mar 20 02:48:38 2026] Car 8: Leaving parking lot from spot 2
+
+[Fri Mar 20 02:48:38 2026] Car 9: Arrived at parking lot
+
+[Fri Mar 20 02:48:38 2026] Car 9: Parked successfully in spot 2 (waited 0.00 seconds)
+
+[Fri Mar 20 02:48:38 2026] Car 2: Arrived at parking lot
+
+[Fri Mar 20 02:48:38 2026] Car 4: Arrived at parking lot
+
+[Fri Mar 20 02:48:38 2026] Car 7: Arrived at parking lot
+
+[Fri Mar 20 02:48:38 2026] Car 6: Arrived at parking lot
+
+[Fri Mar 20 02:48:39 2026] Car 5: Leaving parking lot from spot 0
+
+[Fri Mar 20 02:48:39 2026] Car 2: Parked successfully in spot 0 (waited 1.58 seconds)
+
+[Fri Mar 20 02:48:39 2026] Car 0: Leaving parking lot from spot 1
+
+[Fri Mar 20 02:48:39 2026] Car 4: Parked successfully in spot 1 (waited 1.63 seconds)
+
+[Fri Mar 20 02:48:40 2026] Car 9: Leaving parking lot from spot 2
+
+[Fri Mar 20 02:48:40 2026] Car 7: Parked successfully in spot 2 (waited 1.91 seconds)
+
+[Fri Mar 20 02:48:40 2026] Car 2: Leaving parking lot from spot 0
+
+[Fri Mar 20 02:48:40 2026] Car 6: Parked successfully in spot 0 (waited 2.47 seconds)
+
+[Fri Mar 20 02:48:41 2026] Car 1: Leaving parking lot from spot 4
+
+[Fri Mar 20 02:48:41 2026] Car 4: Leaving parking lot from spot 1
+
+[Fri Mar 20 02:48:42 2026] Car 3: Leaving parking lot from spot 3
+
+[Fri Mar 20 02:48:42 2026] Car 6: Leaving parking lot from spot 0
+
+[Fri Mar 20 02:48:43 2026] Car 7: Leaving parking lot from spot 2
+
