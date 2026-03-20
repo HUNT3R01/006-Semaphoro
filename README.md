@@ -18,9 +18,9 @@ dos autos no sobreescribieran la misma variable estadística al mismo tiempo y q
 3. Desarrollo y Módulos:
 El código se dividió estratégicamente en 3 componentes para mantener buenas prácticas de ingeniería de
 software:
-  3.1 main.c: Actúa como el administrador central. Inicializa los recursos, pregunta al usuario el tamaño del estacionamiento, inicializa
+  - main.c: Actúa como el administrador central. Inicializa los recursos, pregunta al usuario el tamaño del estacionamiento, inicializa
   los threads y al final limpia la memoria.
-  3.2 parking.c / .h: Contiene el "cerebro" o ciclo de vida del auto (Llegar, Esperar en el semáforo,
+  - parking.c / .h: Contiene el "cerebro" o ciclo de vida del auto (Llegar, Esperar en el semáforo,
   Estacionarse y Salir).
-  3.3 Puntos Extra (Dashboard): Se implementó un hilo monitor adicional que limpia la terminal y dibuja en tiempo real una
+  - Puntos Extra (Dashboard): Se implementó un hilo monitor adicional que limpia la terminal y dibuja en tiempo real una
   interfaz gráfica mostrando qué cajones están ocupados y cuáles están vacíos.
